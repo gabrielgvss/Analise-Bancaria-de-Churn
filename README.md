@@ -34,21 +34,6 @@ Este projeto visa realizar uma análise detalhada de uma planilha de dados banc�
 
 3) **Análise Descritiva**:
 
----
-
-### Resultados
-
-- **Distribuição de Idade e Churn**:
-  - Identificação de faixas etárias mais propensas ao churn.
-  
-- **Análise por Estado e Gênero**:
-  - Comparação da taxa de churn entre diferentes estados e gêneros.
-
-- **Impacto do Saldo na Conta e Pontos de Crédito**:
-  - Avaliação de como o saldo bancário e os pontos de crédito influenciam a saída dos clientes.
-
----
-
 ### Ferramentas Utilizadas
 
 - **Pandas**: Manipulação e análise de dados.
